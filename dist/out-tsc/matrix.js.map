@@ -1,0 +1,1 @@
+{"version":3,"file":"matrix.js","sourceRoot":"","sources":["../../src/matrix.ts"],"names":[],"mappings":"AAEA;;;GAGG;AACH,MAAM,OAAO,QAAQ;IAKnB,kEAAkE;IAElE,YAAY,IAAY,EAAE,IAAY,EAAE,QAAmB;QACzD,IAAI,CAAC,IAAI,GAAG,IAAI,CAAC;QACjB,IAAI,CAAC,IAAI,GAAG,IAAI,CAAC;QACjB,IAAI,CAAC,QAAQ,GAAG,QAAQ,CAAC;IAC3B,CAAC;CAEF"}
